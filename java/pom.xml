@@ -23,7 +23,7 @@
 		<maven.build.timestamp.format>yyyy-MM-dd HH:mm</maven.build.timestamp.format>
 
 		<!-- 3rd Party -->
-		<org.slf4j.version>1.7.12</org.slf4j.version>
+		<org.slf4j.version>1.7.16</org.slf4j.version>
 
 		<!-- Testing -->
 		<junit.version>4.12</junit.version>
